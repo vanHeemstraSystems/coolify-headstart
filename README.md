@@ -11,4 +11,4 @@ Docs at https://docs.coollabs.io/coolify/about
 
 # 200 - Requirements
 
-- Coolify requires to be run on ubunutu (only); hence on Mac we need to install Linux for ubuntu (see https://github.com/vanHeemstraSystems/linux-on-mac-headstart)
+- Coolify requires to be run on Ubuntu (only); hence on Mac we need to install Linux for Ubuntu (see https://github.com/vanHeemstraSystems/linux-on-mac-headstart)
