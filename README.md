@@ -7,3 +7,8 @@ Github "Coolify" at https://github.com/coollabsio/coolify
 
 Docs at https://docs.coollabs.io/coolify/about
 
+# 100 - Introdcution
+
+# 200 - Requirements
+
+- Coolify requires to be run on ubunutu (only); hence on Mac we need to install Linux for ubuntu (see https://github.com/vanHeemstraSystems/linux-on-mac-headstart)
